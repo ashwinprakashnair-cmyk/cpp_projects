@@ -27,6 +27,7 @@ int main()
                     if (withdraw > balance)       
                         {
                             cout << "Insufficient balance!" << endl;                  
+                            break;
                         }
                     else
                         {
