@@ -25,6 +25,7 @@ A collection of C++ programs and mini projects created while learning C++ progra
 - Basic Problem Solving
 - Control Flow
 - OOP Concepts
+- Method Overriding
 - Linear Data Structure
 - Pointers and Memory Reallocation
 
