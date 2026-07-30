@@ -8,7 +8,11 @@ A collection of C++ programs and mini projects created while learning C++ progra
 - Flight Availability Search (Linear Search)
 - Number Reverse
 - Prime Number Checker
-
+- Publication System(Books and Audios)
+- Matrix Operations( Addition, Subtraction and Multiplication)
+- Linked List
+- Student Grade Calculator
+                                
 ## Topics Covered
 
 - Variables and Data Types
@@ -19,6 +23,7 @@ A collection of C++ programs and mini projects created while learning C++ progra
 - Arrays
 - Linear Search
 - Basic Problem Solving
+
 
 ## Tools Used
 
