@@ -12,6 +12,9 @@ A collection of C++ programs and mini projects created while learning C++ progra
 - Matrix Operations( Addition, Subtraction and Multiplication)
 - Linked List
 - Student Grade Calculator
+- Class Operations
+- Salary Slip Generation
+
                                 
 ## Topics Covered
 
@@ -35,7 +38,7 @@ A collection of C++ programs and mini projects created while learning C++ progra
 - Language: C++
 - Compiler: g++
 - IDE: Visual Studio Code
-
+  
 ## Goal
 
 This repository documents my journey of learning C++ through practice programs and mini projects. More programs will be added regularly as I continue learning.
