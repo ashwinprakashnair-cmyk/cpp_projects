@@ -14,6 +14,7 @@ A collection of C++ programs and mini projects created while learning C++ progra
 - Student Grade Calculator
 - Class Operations
 - Salary Slip Generation
+- Complex Number Operations
 
                                 
 ## Topics Covered
