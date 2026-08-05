@@ -15,7 +15,7 @@ A collection of C++ programs and mini projects created while learning C++ progra
 - Class Operations
 - Salary Slip Generation
 - Complex Number Operations
-
+- Binary Search
                                 
 ## Topics Covered
 
@@ -32,7 +32,8 @@ A collection of C++ programs and mini projects created while learning C++ progra
 - Method Overriding
 - Linear Data Structure
 - Pointers and Memory Reallocation
-
+- Binary Search
+- Dynamic Memory Allocation.
 
 ## Tools Used
 
