@@ -55,9 +55,3 @@ int main() {
     l1.display();
     return 0;
 }
-
-    
-    
-      
-    
-    
