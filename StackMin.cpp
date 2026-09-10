@@ -60,3 +60,20 @@ public:
         return minVal;
     }
 };
+
+int main() {
+    MinStack s;
+    s.push(18);
+    s.push(19);
+    s.push(29);
+    s.push(15);
+
+    cout << "Minimum: " << s.getMin() << endl;
+    cout << "Top: " << s.top() << endl;
+
+    s.pop();
+    cout << "After pop, Minimum: " << s.getMin() << endl;
+    cout << "After pop, Top: " << s.top() << endl;
+
+    return 0;
+}
