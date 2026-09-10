@@ -59,6 +59,13 @@ public:
         if (topIndex < 0) return -1;
         return minVal;
     }
+    
+    void display(){
+        cout << "Stack is: " << "\t" << endl;
+        for(int i = topIndex; i >= 0; i--){
+            cout << data[i] << endl;
+        }
+    }
 };
 
 int main() {
@@ -67,6 +74,8 @@ int main() {
     s.push(19);
     s.push(29);
     s.push(15);
+    
+    s.display();
 
     cout << "Minimum: " << s.getMin() << endl;
     cout << "Top: " << s.top() << endl;
